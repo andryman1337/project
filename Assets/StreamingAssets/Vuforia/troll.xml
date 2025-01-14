@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="primer2" size="600.000000 763.419495" />
+    <ImageTarget name="primer" size="1000.000000 1215.849854" />
+  </Tracking>
+</QCARConfig>
